@@ -1,4 +1,6 @@
 # BGG Game Menu
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezekeal/bgg-menu.svg)](https://greenkeeper.io/)
 A module that uses a json wrapper around board game geek's data api to create a game menu from a list of id numbers
 
 ## Status
